@@ -1,0 +1,46 @@
+.picture {
+  height: 150px;
+  width: 150px;
+  margin-top: 20px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+.name {
+  text-align: center;
+  font-family: 'Josefin Slab', serif;
+}
+
+.likes {
+  display: inline-block;
+  padding-left: 150px;
+  padding-right: 150px;
+  padding-top: 50px;
+  font-family: 'Josefin Slab', serif;
+}
+
+.skills {
+  display: inline-block;
+  padding-top: 50px;
+  font-family: 'Josefin Slab', serif;
+}
+
+li {
+  text-align: center;
+  font-family: 'Josefin Slab', serif;
+  font-size: 150%;
+  padding-bottom: 10px;
+}
+
+.links {
+  text-align: center;
+  font-family: 'Josefin Slab', serif;
+}
+
+body {
+  background-image: url("assets/twinkle.jpg");
+  font-family: 'Josefin Slab', serif;
+}
